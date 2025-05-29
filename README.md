@@ -15,7 +15,6 @@ Arrange the numbered tiles from 1 to 15 in order, with the blank space at the bo
 
 Players move tiles by sliding them into the adjacent empty space.
 
----
 
 ## 🧠 Features
 
@@ -54,13 +53,6 @@ fifteen-puzzle/
    ```bash
    python3 game.py
    ```
-
----
-
-## 📸 Gameplay Preview
-
-![fifteen puzzle screenshot](https://user-images.githubusercontent.com/your-screenshot.png)  
-*Slide tiles into the blank space to solve the puzzle*
 
 ---
 
