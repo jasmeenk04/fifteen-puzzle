@@ -1,6 +1,4 @@
 #Author: Jasmeen Kaur
-#Date: March 15, 2023
-#Title : fifteen.py
 
 import numpy as np
 from random import choice

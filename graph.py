@@ -1,6 +1,4 @@
 #Author: Jasmeen Kaur
-#Date: March 15, 2023
-#Title : graph.py
 
 class Vertex:
     def __init__(self,key,value=''):

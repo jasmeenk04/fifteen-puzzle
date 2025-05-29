@@ -1,7 +1,7 @@
 #Author: Jasmeen Kaur
-#Date: March 15, 2023
-#Title : game.py
-#Purpose : to run the game
+
+#Purpose of this file: To run the game
+
 from tkinter import *
 import tkinter as tk
 import tkinter.font as font
